@@ -1,0 +1,32 @@
+# Richmond SME Lead Analysis Automation - Dependencies
+
+# Core web scraping & data processing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+
+# Business intelligence & discovery
+googlemaps>=4.10.0
+python-dotenv>=1.0.0
+
+# Report generation
+jinja2>=3.1.0
+markdown>=3.4.0
+
+# Dashboard and visualization
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# AI Chatbot Assistant
+openai>=1.0.0
+
+# Performance monitoring
+psutil>=5.9.0
+
+# Core Python libraries (usually pre-installed)
+# dataclasses  # Python 3.7+
+# typing       # Python 3.5+
+# datetime     # Built-in
+# json         # Built-in
+# time         # Built-in
+# re           # Built-in
